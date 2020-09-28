@@ -1,7 +1,7 @@
 # Daisy Pod Display
 Arduino-based display for the [Daisy Pod](https://www.electro-smith.com/daisy/pod) controlled by the pod's RGB LEDs. Supposing the application running on the Daisy uses the pod's RGB LEDs for status indication, this sketch lets you attach human-readable text displayed on an alphanumerical LCD connected to an Arduino Uno. Also captures potentiometers POT1 & POT2.
 
-Default sketch has the menu's for [HammondEggsMusic's Pollen(8) synthesizer](https://hammondeggsmusic.ca/daisy/pollen8.html).
+Default sketch has the menus for [HammondEggsMusic's Pollen(8) synthesizer](https://hammondeggsmusic.ca/daisy/pollen8.html).
 
 Connections:
 
