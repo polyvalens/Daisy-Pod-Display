@@ -3,6 +3,8 @@ Arduino-based display for the [Daisy Pod](https://www.electro-smith.com/daisy/po
 
 Default sketch has the menus for [HammondEggsMusic's Pollen(8) synthesizer](https://hammondeggsmusic.ca/daisy/pollen8.html).
 
+![Alt text](dpd-prototype.jpg?raw=true "Daisy Pod Display Prototype")
+
 Connections:
 
 Daisy -> Arduino
